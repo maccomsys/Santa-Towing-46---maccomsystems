@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /nanadmin
+Disallow: /search
+
+Sitemap: https://santatowing.com/sitemap.xml
